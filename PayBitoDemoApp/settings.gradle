@@ -1,0 +1,4 @@
+rootProject.name = "PayBito Demo App"
+include ':app'
+include ':library'
+project(':library').projectDir = new File('../paybito-android-sdk-standalone/library')

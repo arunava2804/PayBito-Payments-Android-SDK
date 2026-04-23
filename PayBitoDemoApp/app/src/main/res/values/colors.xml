@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core Backgrounds -->
+    <color name="dark_bg_primary">#0A0E17</color>
+    <color name="dark_bg_secondary">#111827</color>
+    <color name="dark_bg_card">#1A1F2E</color>
+    <color name="dark_surface">#0F1520</color>
+    <color name="dark_input_bg">#151B2B</color>
+
+    <!-- Accent / Brand -->
+    <color name="dark_accent_primary">#6C63FF</color>
+    <color name="dark_accent_secondary">#7B6FFF</color>
+    <color name="dark_accent_gradient_start">#6C63FF</color>
+    <color name="dark_accent_gradient_end">#A855F7</color>
+    <color name="dark_link_color">#818CF8</color>
+
+    <!-- Text -->
+    <color name="dark_text_primary">#F1F5F9</color>
+    <color name="dark_text_secondary">#94A3B8</color>
+    <color name="dark_text_hint">#4B5563</color>
+    <color name="dark_text_dim">#64748B</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Borders & Dividers -->
+    <color name="dark_input_border">#2A3142</color>
+    <color name="dark_input_border_focused">#6C63FF</color>
+    <color name="dark_divider">#1E293B</color>
+
+    <!-- Status -->
+    <color name="success_green">#10B981</color>
+    <color name="warning_yellow">#F59E0B</color>
+    <color name="error_red">#EF4444</color>
+    
+    <!-- Redesign Additions -->
+    <color name="dark_bg_main">#0A0E17</color>
+    <color name="dark_accent_primary_10">#1A6C63FF</color>
+    
+    <!-- Legacy / Compatibility -->
+    <color name="brand_orange">#F7931A</color>
+</resources>

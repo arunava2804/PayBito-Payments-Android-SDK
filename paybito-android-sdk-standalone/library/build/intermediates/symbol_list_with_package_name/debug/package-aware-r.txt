@@ -1,0 +1,26 @@
+com.paybito.sdk
+color pb_accent
+color pb_dark_bg
+color pb_dark_surface
+color pb_text_primary
+color pb_text_secondary
+id btnCheckout
+id btnItemMinus
+id btnItemPlus
+id ivBack
+id ivItemImage
+id progressBar
+id rvCartItems
+id tvCartTitle
+id tvCheckoutTitle
+id tvDrawerTotal
+id tvItemName
+id tvItemQty
+id tvItemSubtotal
+id tvItemUnitPrice
+id tvSecuredBy
+id webView
+layout pb_activity_checkout
+layout pb_item_cart_row
+layout pb_sheet_cart_drawer
+style RoundedImageView

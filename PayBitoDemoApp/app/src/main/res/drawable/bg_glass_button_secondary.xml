@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base: semi-transparent white -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#12FFFFFF" />
+            <corners android:radius="@dimen/_12sdp" />
+        </shape>
+    </item>
+
+    <!-- Glass sheen: white gradient top-to-transparent -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="270"
+                android:startColor="#15FFFFFF"
+                android:endColor="#00FFFFFF" />
+            <corners android:radius="@dimen/_12sdp" />
+        </shape>
+    </item>
+
+    <!-- Frosted border: subtle white stroke -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/transparent" />
+            <stroke
+                android:width="0.5dp"
+                android:color="#30FFFFFF" />
+            <corners android:radius="@dimen/_12sdp" />
+        </shape>
+    </item>
+
+</layer-list>
