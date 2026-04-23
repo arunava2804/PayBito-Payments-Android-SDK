@@ -1,3 +1,3 @@
-﻿rootProject.name = 'PayBito-Payments-Android-SDK'
+rootProject.name = 'PayBito-Payments-Android-SDK'
 include ':library'
 project(':library').projectDir = new File('paybito-android-sdk-standalone/library')
