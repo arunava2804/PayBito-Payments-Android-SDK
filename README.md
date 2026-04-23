@@ -1,4 +1,4 @@
-# PayBito Payments Android SDK & TechStore Demo (v1.1.0)
+# PayBito Payments Android SDK & TechStore Demo (v1.1.2)
 
 ## 📝 Description
 The **PayBito Payments Android SDK** is a professional-grade fintech solution designed to empower developers with seamless crypto and fiat payment integration. Built on a reactive architecture, the SDK provides a robust bridge between native Android environments and the PayBito payment gateway.
@@ -10,6 +10,7 @@ The **PayBito Payments Android SDK** is a professional-grade fintech solution de
 Add the JitPack repository to your settings.gradle:
 ```gradle
 dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
     repositories {
         google()
         mavenCentral()
@@ -21,7 +22,7 @@ dependencyResolutionManagement {
 Add the dependency to your pp/build.gradle:
 ```gradle
 dependencies {
-    implementation 'com.github.arunava2804.PayBito-Payments-Android-SDK:library:v1.1.0'
+    implementation 'com.github.arunava2804.PayBito-Payments-Android-SDK:library:v1.1.2'
 }
 ```
 

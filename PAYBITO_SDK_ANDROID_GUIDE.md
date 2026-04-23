@@ -1,4 +1,4 @@
-# PayBito Android SDK Integration Guide (v1.1.0)
+# PayBito Android SDK Integration Guide (v1.1.2)
 
 This guide provides accurate technical instructions for integrating the PayBito SDK based on the latest implementation.
 
@@ -71,4 +71,4 @@ If using obfuscation, add these to your `proguard-rules.pro`:
 -dontwarn com.paybito.sdk.**
 ```
 
-*Documentation Version: 1.1.0 | April 2026*
+*Documentation Version: 1.1.2 | April 2026*
