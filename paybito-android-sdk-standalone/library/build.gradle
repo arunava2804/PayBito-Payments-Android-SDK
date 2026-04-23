@@ -46,9 +46,9 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.github.arunava2804'
-                artifactId = 'PayBito-Payments-Android-SDK'
-                version = project.findProperty('version') ?: '1.0.9'
+                groupId = 'com.github.arunava2804.PayBito-Payments-Android-SDK'
+                artifactId = 'library'
+                version = project.findProperty('version') ?: '1.1.0'
             }
         }
     }
