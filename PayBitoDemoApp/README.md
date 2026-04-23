@@ -19,7 +19,7 @@ dependencyResolutionManagement {
 ### 2. Add Dependency to `app/build.gradle`
 ```gradle
 dependencies {
-    implementation 'com.github.arunava2804:PayBito-Android-SDK:v1.0.0'
+    implementation 'com.github.arunava2804:PayBito-Payments-Android-SDK:v1.0.9'
 }
 ```
 
