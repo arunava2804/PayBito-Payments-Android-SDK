@@ -1,0 +1,17 @@
+.gradle/
+build/
+**/build/
+**/.gradle/
+*.iml
+.idea/
+local.properties
+.DS_Store
+captures/
+.externalNativeBuild
+.cxx
+PayBitoDemoApp/.idea/
+PayBitoDemoApp/app/build/
+PayBitoDemoApp/.gradle/
+paybito-android-sdk-standalone/library/build/
+paybito-android-sdk-standalone/.gradle/
+PayBitoTestApp/
