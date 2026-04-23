@@ -48,7 +48,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.arunava2804'
                 artifactId = 'PayBito-Android-SDK'
-                version = '1.0.0'
+                version = project.findProperty('version') ?: '1.0.0'
             }
         }
     }
